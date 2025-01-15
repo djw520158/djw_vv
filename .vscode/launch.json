@@ -8,7 +8,7 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "E:/PythonDev/iptv/IPTV-main/main.py",
+            "program": "E:/PythonDev/iptv/djw_vv/main.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "python": "D:/SoftWare/anaconda3/envs/iptv/python.exe",
